@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-
+/* Main Content Area Styles */
 body {
     background-color: black;
     color: white;
@@ -16,6 +16,22 @@ body h1 {
     font-weight: normal;
 }
 
-body a {
+.cta a {
     color: aquamarine;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    color: grey;
+    font-size: 21px;
+}
+
+/* Footer Area */
+#foot {
+    text-align: right;
+    color: grey;
 }
